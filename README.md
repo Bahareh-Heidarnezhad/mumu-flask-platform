@@ -1,7 +1,7 @@
 # MUMU — Web Design Course Project
 
 MUMU is an 8‑page full‑stack web application built with **Flask** and **MongoDB**.  
-It was developed as part of a web design course to provide a closed‑community platform for Modul University students to list services, leave reviews, and exchange feedback.
+It was developed as part of a web design course to provide a closed‑community platform for a University students to list services, leave reviews, and exchange feedback.
 
 ---
 
